@@ -12,7 +12,5 @@ class Dashboard extends CI_Controller{
      // echo 'asdf';
         $this->show->user_panel('index');
     }
-    public function test(){
-        echo 'test';
-    }
+    
 }
